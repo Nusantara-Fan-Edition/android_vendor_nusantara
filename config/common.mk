@@ -1,3 +1,6 @@
+# Unofficial patch level
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += ro.nad.custom_version=2025-11-1
+
 ifeq ($(PRODUCT_GMS_CLIENTID_BASE),)
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.com.google.clientidbase=android-google
