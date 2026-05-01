@@ -1,5 +1,5 @@
 # Unofficial patch level
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += ro.nad.custom_version=2026-03-1
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += ro.nad.custom_version=2026-04-1
 
 ifeq ($(PRODUCT_GMS_CLIENTID_BASE),)
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
